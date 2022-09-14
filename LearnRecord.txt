@@ -287,3 +287,10 @@ udemy:現役シリコンバレーエンジニアが教えるPython 3 入門 + �
 300本記事ノック
 udemy:現役シリコンバレーエンジニアが教えるPython 3 入門 + 応用
 pythonでメール送信
+
+------9/14
+#RareTECH
+#今日の積み上げ
+300本記事ノック
+udemy:現役シリコンバレーエンジニアが教えるPython 3 入門 + 応用
+python SQL MySql
