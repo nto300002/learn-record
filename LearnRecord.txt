@@ -301,9 +301,16 @@ python SQL MySql
 300本記事ノック
 セッション（心理）
 
-------9/15
+------9/16
 #RareTECH
 #今日の積み上げ
 300本記事ノック
 udemy:現役シリコンバレーエンジニアが教えるPython 3 入門 + 応用
 python DBM
+
+------9/17
+#RareTECH
+#今日の積み上げ
+500step(2)
+udemy:現役シリコンバレーエンジニアが教えるPython 3 入門 + 応用
+python Json
