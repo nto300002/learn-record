@@ -315,10 +315,9 @@ python DBM
 udemy:現役シリコンバレーエンジニアが教えるPython 3 入門 + 応用
 python Json
 
-------9/18
+------9/19
 #RareTECH
 #今日の積み上げ
-500step(13)
+500step(42)
 udemy:現役シリコンバレーエンジニアが教えるPython 3 入門 + 応用
-python Unittest
-
+python test_mock
