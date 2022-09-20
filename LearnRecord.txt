@@ -321,3 +321,8 @@ python Json
 500step(42)
 udemy:現役シリコンバレーエンジニアが教えるPython 3 入門 + 応用
 python test_mock
+
+------9/20
+#RareTECH
+#今日の積み上げ
+500step(53)
