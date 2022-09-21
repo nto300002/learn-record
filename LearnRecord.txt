@@ -326,3 +326,8 @@ python test_mock
 #RareTECH
 #今日の積み上げ
 500step(53)
+
+------9/21
+#RareTECH
+#今日の積み上げ
+500step(61)
