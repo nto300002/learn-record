@@ -338,3 +338,9 @@ python test_mock
 500step(65)
 loginの仕組み
 
+------9/23
+#RareTECH
+#今日の積み上げ
+500step(77)
+ftpコマンド
+
