@@ -429,3 +429,9 @@ fishについて
 RAIDとは:/www.infraexpert.com/study/networking9.ht77
 HDDなどのデータの保管場所への保管の方法
 RAID0,1,5,10などがある
+
+------10/9
+#RareTECH
+#今日の積み上げ
+500step(176)
+ハッカソンー画面設計書作成
