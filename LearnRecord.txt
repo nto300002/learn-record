@@ -514,3 +514,10 @@ AZ（アベイラビリティーゾーン）:リージョンの中で物理的�
 500step(189)
 ハッカソンーNextJsのルーティング試行錯誤
 dynamicルーティング
+
+------10/21
+#RareTECH
+#今日の積み上げ
+500step(189)
+Reactの記事を書く
+https://zenn.dev/yasuda/articles/dadebb2a0b9445
