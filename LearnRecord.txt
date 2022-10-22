@@ -521,3 +521,9 @@ dynamicルーティング
 500step(189)
 Reactの記事を書く
 https://zenn.dev/yasuda/articles/dadebb2a0b9445
+
+------10/22
+#RareTECH
+#今日の積み上げ
+500step(189)
+ハッカソン-Reactルーティングについて　JavaScriptの学習
