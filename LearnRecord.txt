@@ -533,3 +533,9 @@ https://zenn.dev/yasuda/articles/dadebb2a0b9445
 #今日の積み上げ
 500step(189)
 ハッカソン-buttonのdisabledを設定 状態管理
+
+------10/24
+#RareTECH
+#今日の積み上げ
+500step(192)
+AWSハンズオン
