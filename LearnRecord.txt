@@ -539,3 +539,9 @@ https://zenn.dev/yasuda/articles/dadebb2a0b9445
 #今日の積み上げ
 500step(192)
 AWSハンズオン
+
+------10/25
+#RareTECH
+#今日の積み上げ
+500step(192)
+ハッカソンーコンポーネント間の状態の受け渡しについて
