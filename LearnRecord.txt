@@ -551,3 +551,9 @@ AWSハンズオン
 #今日の積み上げ
 500step(192)
 DockerについてDockerfileからイメージ作成、コンテナ起動
+
+------10/27
+#RareTECH
+#今日の積み上げ
+500step(196)
+AWS-mysqlの設定
