@@ -913,3 +913,10 @@ ER図　SQLアンチパターン
 #今日の積み上げ
 500step(269)
 ハッカソン：MTG　機能の洗い出しなど　要求定義＆要件定義
+
+------1/11
+#RareTECH
+#今日の積み上げ
+500step(269)
+非同期処理について学ぶ
+https://zenn.dev/estra/books/js-async-promise-chain-event-loop/viewer/f-epasync-asynchronous-apis
