@@ -1,2 +1,2 @@
 # learn-record
-#RUNTEQ 32h --5/17
+#RUNTEQ 55h --5/22
